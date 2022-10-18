@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\bin\Debug\net7.0\ДЗ Задача 27.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\bin\Debug\net7.0\ДЗ Задача 27.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\bin\Debug\net7.0\ДЗ Задача 27.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\bin\Debug\net7.0\ДЗ Задача 27.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\bin\Debug\net7.0\ДЗ Задача 27.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\refint\ДЗ Задача 27.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ДЗ Задача 27.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 27\obj\Debug\net7.0\ref\ДЗ Задача 27.dll
